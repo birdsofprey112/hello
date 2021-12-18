@@ -8,14 +8,14 @@ button {
  cursor: url('171049.png'), pointer;
 }
 body {
-  background: #C2FFA8;
-  background: -moz-radial-gradient(center, #C2FFA8 0%, #EB88BA 100%);
-  background: -webkit-radial-gradient(center, #C2FFA8 0%, #EB88BA 100%);
-  background: radial-gradient(ellipse at center, #C2FFA8 0%, #EB88BA 100%);%);
+ background: #9A34CE;
+background: -moz-radial-gradient(center, #9A34CE 0%, #FD91FF 50%, #4A3BC5 100%);
+background: -webkit-radial-gradient(center, #9A34CE 0%, #FD91FF 50%, #4A3BC5 100%);
+background: radial-gradient(ellipse at center, #9A34CE 0%, #FD91FF 50%, #4A3BC5 100%);
 }
 
 h1 {
-  font-family: Helvetica, serif;
+  font-family: Times, serif;
   color: black;
   text-size: 120px;
   margin: 10px;
