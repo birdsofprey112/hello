@@ -9,9 +9,9 @@ button {
 }
 body {
  background: #9A34CE;
-background: -moz-radial-gradient(center, #9A34CE 0%, #FD91FF 50%, #4A3BC5 100%);
-background: -webkit-radial-gradient(center, #9A34CE 0%, #FD91FF 50%, #4A3BC5 100%);
-background: radial-gradient(ellipse at center, #9A34CE 0%, #FD91FF 50%, #4A3BC5 100%);
+ background: -moz-radial-gradient(center, #9A34CE 0%, #FD91FF 50%, #4A3BC5 100%);
+ background: -webkit-radial-gradient(center, #9A34CE 0%, #FD91FF 50%, #4A3BC5 100%);
+ background: radial-gradient(ellipse at center, #9A34CE 0%, #FD91FF 50%, #4A3BC5 100%);
 }
 
 h1 {
